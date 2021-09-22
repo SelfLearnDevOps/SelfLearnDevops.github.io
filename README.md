@@ -1,6 +1,4 @@
-# SelfLearnDevops.github.io
-
-## Warm Welcome to Self Learn Website for DevOps.
+# Warm Welcome to Self Learn Website for DevOps.
 
 This Website is in construction at this point of time. However for time being I have hosted Self learn Video on DevOps Concepts.
 
