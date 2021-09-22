@@ -5,4 +5,4 @@ This Website is in construction at this point of time. for time being I have hos
 
 ## DevOps Concepts Self Learn Video !
 
-[![IMAGE ALT TEXT HERE](Images/DevOpsConcepts.JPG)](https://www.microsoft.com/en-us/videoplayer/embed/RWHxSR)
+[![IMAGE ALT TEXT HERE](Images/DevOpsConcepts.JPG)](https://youtu.be/MEq3HUADFwQ)
