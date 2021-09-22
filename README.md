@@ -1,6 +1,6 @@
 # SelfLearnDevops.github.io
 Self Learn DevOps Repository with Guided Videos
 
-This is site is under construction will go Live soon !
+DevOps Concepts Self Learn Video !
 
-[DevOpsConcepts](https://www.microsoft.com/en-us/videoplayer/embed/RWHxSR)
+[![IMAGE ALT TEXT HERE](Images/DevOpsConcepts.JPG)](https://www.microsoft.com/en-us/videoplayer/embed/RWHxSR)
