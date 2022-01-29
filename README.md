@@ -45,10 +45,11 @@
        - Prerequiste : Learn Github Concepts - Github Repos and Actions with Demo
 
 ### Agenda
-- Know Github
-- Create your Own Github Repos
-- Know Github Actions
-- Create your Own Github Actions workflow
-- Demo Showing Github Repos and Actions
+- Learn Github Action Worfklow Syntax
+- Create your First Github Action Step by Step
+- Create your First Github Secret
+- Integrate Github Actions with your Azure Subscription
+- Automation at its best, create your first service on Azure
+- Build and Deploy code on Azure Services
 
 [![GithubReposAction](Images/HandsonLabGithubActions.png)](https://youtu.be/ucFCcBwz1ss)
