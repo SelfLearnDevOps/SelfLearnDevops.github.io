@@ -28,3 +28,14 @@
 - Demo Showing Azure Repos and Pipelines in Action
 
 [![AzureDevOpsRepoPipeline](Images/AZUREREPOSANDPIPELINES.png)](https://youtu.be/mwTTwI03-0s)
+
+## *3. Learn Github Concepts - Github Repos and Actions with Demo !*
+
+### Agenda
+- Know Github
+- Create your Own Github Repos
+- Know Github Actions
+- Create your Own Github Actions workflow
+- Demo Showing Github Repos and Actions
+
+[![GithubReposAction](Images/GithubReposActions.png)](https://youtu.be/kFI1hKf6-2g)
