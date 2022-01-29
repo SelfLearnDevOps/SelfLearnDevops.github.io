@@ -7,7 +7,7 @@
 - Content is latest and and will be updated as and when there is technical refresh about topic
 
 
-# *1. DevOps Concepts for Beginners !*
+## *1. DevOps Concepts for Beginners !*
 
 ### Agenda
 - Why DevOps
@@ -18,7 +18,7 @@
 [![DevOpsConcepts](Images/DevOpsConcepts.png)](https://youtu.be/MEq3HUADFwQ)
 
 
-# *2. Learn Azure DevOps Repos and Azure Pipeline with Demo !*
+## *2. Learn Azure DevOps Repos and Azure Pipeline with Demo !*
 
 ### Agenda
 - Know Azure Repos
