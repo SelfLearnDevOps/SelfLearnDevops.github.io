@@ -1,10 +1,12 @@
 # Welcome to Self Learn Website for DevOps !
 
-- This website is created with Intent to Learn DevOps at your own pace with guided videos. 
-- Start with Concept videos for every topic
+- This website is created with Intent to Learn DevOps with guided videos. 
+- Start with Concept videos for DevOps for Begineers if you are new to DevOps every topic
+- There is Concept video for every workloads before doing Hands on Lab to set Right Basics
 - Building upon Concept , there are subscequent vidoes for Hands on Lab which you can Do IT Yourself. 
 - These Videos are also available at [DevOps Self Learn YouTube Channel](https://www.youtube.com/channel/UCWmVYgbW-KZbIFCMJTR-gxg)
-- Content is latest and and will be updated as and when there is technical refresh about topic
+- Content is latest and and will be updated as and when there is technical refresh about that workload
+- DevOps tools used for Automation are Azure DevOps and Github 
 
 
 ## *1. DevOps Concepts for Beginners !*
@@ -64,3 +66,15 @@
 - Demo
 
 [![ConceptSQLWorkloads](Images/ConceptsSQLWorkloadsDevOps.png)](https://youtu.be/HPhOE9v8fuU)
+
+## *6. Hands on Labs SQL Workloads Deployments With DevOps !*
+
+       - Prerequiste : Concepts- SQL Workloads Deployments With DevOps
+       
+### Agenda
+- Github Actions Deployment for MySQL , PostgreSQL and Azure SQL database
+- Github Actions End to End Service Implemmentation for App with SQL Workloads
+- Azure DevOps Deployment of MySQL , PostgreSQL and Azure SQL database
+- Azure DevOps End to End Service Implemmentation for App with SQL Workloads
+
+[![ConceptSQLWorkloads](Images/HandsonLabSQLWorkloads.png)](https://youtu.be/KVzJEobsPDs)
