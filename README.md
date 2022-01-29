@@ -52,4 +52,15 @@
 - Automation at its best, create your first service on Azure
 - Build and Deploy code on Azure Services
 
-[![GithubReposAction](Images/HandsonLabGithubActions.png)](https://youtu.be/ucFCcBwz1ss)
+[![HandsonLabGithubActions](Images/HandsonLabGithubActions.png)](https://youtu.be/ucFCcBwz1ss)
+
+## *5. Concepts- SQL Workloads Deployments With DevOps !*
+
+### Agenda
+- Learn Why we need DevOps for Databases
+- How DevOps speeds up Deployments and operation issues
+- Use of Native Database Management tools
+- What makes up Automation Workflows for Database
+- Demo
+
+[![ConceptSQLWorkloads](Images/ConceptsSQLWorkloadsDevOps.png)](https://youtu.be/HPhOE9v8fuU)
