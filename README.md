@@ -13,4 +13,4 @@
 
 ## Video 2 : Learn Azure DevOps Repos and Azure Pipeline with Demo !
 
-[![AzureDevOpsRepoPipeline](Images/azurereposandpipelines.JPG)](https://youtu.be/mwTTwI03-0s)
+[![AzureDevOpsRepoPipeline](Images/AZUREREPOSANDPIPELINES.png)](https://youtu.be/mwTTwI03-0s)
