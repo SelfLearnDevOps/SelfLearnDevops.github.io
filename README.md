@@ -77,4 +77,28 @@
 - Azure DevOps Deployment of MySQL , PostgreSQL and Azure SQL database
 - Azure DevOps End to End Service Implemmentation for App with SQL Workloads
 
-[![ConceptSQLWorkloads](Images/HandsonLabSQLWorkloads.png)](https://youtu.be/KVzJEobsPDs)
+[![HandsonLabSQLWorkloads](Images/HandsonLabSQLWorkloads.png)](https://youtu.be/KVzJEobsPDs)
+
+## *7. Concepts- NoSQL Workloads Deployments With DevOps !*
+
+### Agenda
+- Learn Why we need DevOps for Databases
+- Know NoSQL APIs
+- How DevOps speeds up Deployments and operation issues
+- Use of Native NoSQL Database Management tools
+- What makes up Automation Workflows for NoSQL Databases
+- Demo
+
+[![ConceptNoSQLWorkloads](Images/ConceptsNoSQLWorkloadsDevOps.png)](https://youtu.be/_9hyf2RKidg)
+
+## *8. Hands on Labs NoSQL Workloads Deployments With Azure DevOps !*
+
+       - Prerequiste : Concepts- NoSQL Workloads Deployments With DevOps
+       
+### Agenda
+- Create NoSQL Deployment Workflow with Azure DevOps 
+- Implement NodeJs with CosmosDB use case end to end with Azure DevOps
+- ImplementJava with CosmosDB use case end to end with Azure DevOps
+
+
+[![ConceptSQLWorkloads](Images/HandsonLabNoSQLWorkloadsAzureDevOps.png)](https://youtu.be/-H2xUl82OKw)
