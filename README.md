@@ -101,4 +101,16 @@
 - ImplementJava with CosmosDB use case end to end with Azure DevOps
 
 
-[![ConceptSQLWorkloads](Images/HandsonLabNoSQLWorkloadsAzureDevOps.png)](https://youtu.be/-H2xUl82OKw)
+[![HandsonLabNoSQLWorkloadsAzureDevOps](Images/HandsonLabNoSQLWorkloadsAzureDevOps.png)](https://youtu.be/-H2xUl82OKw)
+
+## *9. Hands on Labs NoSQL Workloads Deployments With Github Actions !*
+
+       - Prerequiste : Concepts- NoSQL Workloads Deployments With DevOps
+       
+### Agenda
+- Create NoSQL Deployment Workflow with Github Actions 
+- Implement NodeJs with CosmosDB use case end to end with Github Actions
+- ImplementJava with CosmosDB use case end to end with Github Actions
+
+
+[![HandsonLabNoSQLWorkloadsGithubActions](Images/HandsonLabNoSQLWorkloadsGithubActions.png)](https://youtu.be/cn3t9J0aG5M)
