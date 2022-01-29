@@ -114,3 +114,15 @@
 
 
 [![HandsonLabNoSQLWorkloadsGithubActions](Images/HandsonLabNoSQLWorkloadsGithubActions.png)](https://youtu.be/cn3t9J0aG5M)
+
+## *10. Concepts - DevOps for Modern DataWarehouse !*
+
+       
+### Agenda
+- Role of Modern Datawarehouse Components(MDW) 
+- Why we need DevOps for MDW
+- MDW Pipeline Architecture
+- MDW CI/CD Deployment Architecture
+
+
+[![ConceptsDevforMDW](Images/ConceptMDW.png)](https://youtu.be/wJZnKY3bnLM)
