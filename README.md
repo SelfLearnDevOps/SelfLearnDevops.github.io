@@ -15,7 +15,7 @@
 - Know how we deal with security
 - Know where DevOps will not be effective
 
-[![DevOpsConcepts](Images/DevOpsConcepts.png)](https://youtu.be/MEq3HUADFwQ)
+[![DevOpsConcepts](Images/DevOpsConcepts.png)](https://youtu.be/zcW41vACmbo)
 
 
 ## *2. Learn Azure DevOps Repos and Azure Pipeline with Demo !*
