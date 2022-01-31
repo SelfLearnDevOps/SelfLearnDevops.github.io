@@ -126,3 +126,9 @@
 
 
 [![ConceptsDevforMDW](Images/ConceptMDW.png)](https://youtu.be/wJZnKY3bnLM)
+
+
+# Upcoming Hands on Labs 
+==========================
+*Devops for ModernDataWareHouse* 
+*DevOps for ML*
