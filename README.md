@@ -131,5 +131,5 @@
 
 # Upcoming Hands on Labs 
 
-- ***DevOps for ModernDataWarehouse *** 
+- ***DevOps for ModernDataWarehouse*** 
 - ***DevOps for ML***
