@@ -1,9 +1,9 @@
 # Welcome to Self Learn Website for DevOps !
 
-- This website is created with Intent to Learn DevOps with guided videos. 
-- Start with Concept videos for DevOps for Begineers if you are new to DevOps
+- This website is created with Intent to Learn DevOps with guided videos
+- If you are new to DevOps, Start with DevOps for Begineers Video 
 - There is Concept video for every workload before doing Hands on Lab to set Right Basics
-- Building upon Concept , there are subscequent vidoes for Hands on Lab which you can Do IT Yourself. 
+- Building upon Concept , there are subscequent vidoes for Hands on Lab which you can Do IT Yourself
 - These Videos are also available at [DevOps Self Learn YouTube Channel](https://www.youtube.com/channel/UCWmVYgbW-KZbIFCMJTR-gxg)
 - Content is latest and and will be updated as and when there is technical refresh about that workload
 - DevOps tools used for Automation are Azure DevOps and Github 
