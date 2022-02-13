@@ -5,7 +5,6 @@
 - If you are new to DevOps, Start with DevOps for Begineers Video 
 - There is Concept video for every workload before doing Hands on Lab to get basics right
 - Building upon Concept , there are subsequent videos for Hands on Lab which you can Do IT Yourself
-- These Videos are made available through my YouTube Channel [DevOpsLabs](https://www.youtube.com/channel/UCWmVYgbW-KZbIFCMJTR-gxg)
 - Content is latest and and will be updated as and when there is technical refresh about that workload
 
 
